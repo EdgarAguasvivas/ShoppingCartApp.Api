@@ -1,0 +1,5 @@
+C:\Users\eaguasvivas\source\repos\ShoppingCartApp\ShoppingCartApp.Business\bin\Debug\net5.0\ShoppingCartApp.Data.dll
+C:\Users\eaguasvivas\source\repos\ShoppingCartApp\ShoppingCartApp.Business\obj\Debug\net5.0\ShoppingCartApp.Business.csprojAssemblyReference.cache
+C:\Users\eaguasvivas\source\repos\ShoppingCartApp\ShoppingCartApp.Business\obj\Debug\net5.0\ShoppingCartApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eaguasvivas\source\repos\ShoppingCartApp\ShoppingCartApp.Business\obj\Debug\net5.0\ShoppingCartApp.Business.AssemblyInfoInputs.cache
+C:\Users\eaguasvivas\source\repos\ShoppingCartApp\ShoppingCartApp.Business\obj\Debug\net5.0\ShoppingCartApp.Business.AssemblyInfo.cs
